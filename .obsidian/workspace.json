@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "e7bd6778ccf660fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c07c02eada847f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6d853e71af1077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gen AI/llm inference internals (vLLM)/The Trio Working Together.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Trio Working Together"
+            }
+          },
+          {
+            "id": "f6bc59e38f929db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gen AI/Gen AI Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gen AI Topics"
+            }
+          },
+          {
+            "id": "0555a74da735165a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DE/DE Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DE Topics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe001783f5bee7fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f445a3567cd4ce52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9e9b39e4c10dc0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "401e5a704f0a2fa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "082e12e5a9b872b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc2199c52594f0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fce895392a49d22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa328f9f0db457f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JarvisLine/Project Architecture & Status v1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project Architecture & Status v1"
+            }
+          },
+          {
+            "id": "60f89fd8d201a5d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JarvisLine/Project Architecture & Status v1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Architecture & Status v1"
+            }
+          },
+          {
+            "id": "e945d87547c376d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92ac2bf0c6593ad7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ad3b7daa85e986f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JarvisLine/Project Architecture & Status v1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Architecture & Status v1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f9e9b39e4c10dc0e",
+  "lastOpenFiles": [
+    "Gen AI/llm inference internals (vLLM)/PagedAttention vs Continuous Batching.md",
+    "Gen AI/llm inference internals (vLLM)/The Trio Working Together.md",
+    "Gen AI/llm inference internals (vLLM)",
+    "Gen AI/llm inference internals (vLLM)/Continuous Batching.md",
+    "Gen AI/llm inference internals (vLLM)/PagedAttention.md",
+    "Gen AI/llm inference internals (vLLM)/KV cache.md",
+    "Gen AI/Evaluating a LLM model.md",
+    "Mail.md",
+    "DE/DE Topics.md",
+    "Gen AI/RAG vs CRAG.md",
+    "DE",
+    "Gen AI",
+    "Gen AI/Gen AI Topics.md",
+    "JarvisLine/hurdle 1.md",
+    "JarvisLine/Project Architecture & Status v1.md",
+    "Welcome.md",
+    "JarvisLine"
+  ]
+}
