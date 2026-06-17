@@ -53,5 +53,3 @@
 ---
 
 **Learning order:** Inference → RAG internals → Eval → Fine-tuning → Prod
-
-Want me to go deep on any one of these?

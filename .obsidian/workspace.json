@@ -4,52 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "27c07c02eada847f",
+        "id": "896c3d0dc79b156a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6d853e71af1077",
+            "id": "c25efab27370fd9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen AI/llm inference internals (vLLM)/The Trio Working Together.md",
+                "file": "DE/Apache Spark/Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Trio Working Together"
+              "title": "Architecture"
             }
           },
           {
-            "id": "f6bc59e38f929db5",
+            "id": "98440459eb30f77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen AI/Gen AI Topics.md",
+                "file": "DE/Apache Spark/1. The Core Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gen AI Topics"
-            }
-          },
-          {
-            "id": "0555a74da735165a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/DE Topics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DE Topics"
+              "title": "1. The Core Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,21 +198,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9e9b39e4c10dc0e",
+  "active": "98440459eb30f77a",
   "lastOpenFiles": [
-    "Gen AI/llm inference internals (vLLM)/PagedAttention vs Continuous Batching.md",
-    "Gen AI/llm inference internals (vLLM)/The Trio Working Together.md",
-    "Gen AI/llm inference internals (vLLM)",
+    "Leetcode Problems Completed.md",
+    "DE/Apache Spark/1. The Core Architecture.md",
+    "DE/Apache Spark/Architecture.md",
+    "DE/Apache Spark/data locality.md",
+    "DE/Apache Spark/MapReduce wrote intermediate results to disk.md",
+    "DE/Apache Spark/Spark Functions — Cost Reference.md",
+    "Images/Pasted image 20260616131121.png",
+    "Images",
+    "Images/Pasted image 20260616131054.png",
+    "Images/Pasted image 20260616131017.png",
+    "Images/Pasted image 20260616130947.png",
+    "Images/Pasted image 20260616130934.png",
+    "Images/Pasted image 20260616130853.png",
+    "Images/Pasted image 20260616130849.png",
+    "Images/Pasted image 20260616130751.png",
+    "Images/Pasted image 20260616130732.png",
+    "Images/Pasted image 20260616130549.png",
+    "DE/DE Topics.md",
+    "DE/Apache Spark",
+    "DE/definitions/assertions.md",
+    "DE/definitions",
+    "riDream.md",
+    "Gen AI/Gen AI Topics.md",
+    "Gen AI/Evaluating a LLM model.md",
+    "Gen AI/RAG vs CRAG.md",
     "Gen AI/llm inference internals (vLLM)/Continuous Batching.md",
+    "Gen AI/llm inference internals (vLLM)/The Trio Working Together.md",
+    "Gen AI/llm inference internals (vLLM)/PagedAttention vs Continuous Batching.md",
+    "Gen AI/llm inference internals (vLLM)",
     "Gen AI/llm inference internals (vLLM)/PagedAttention.md",
     "Gen AI/llm inference internals (vLLM)/KV cache.md",
-    "Gen AI/Evaluating a LLM model.md",
     "Mail.md",
-    "DE/DE Topics.md",
-    "Gen AI/RAG vs CRAG.md",
     "DE",
     "Gen AI",
-    "Gen AI/Gen AI Topics.md",
     "JarvisLine/hurdle 1.md",
     "JarvisLine/Project Architecture & Status v1.md",
     "Welcome.md",
